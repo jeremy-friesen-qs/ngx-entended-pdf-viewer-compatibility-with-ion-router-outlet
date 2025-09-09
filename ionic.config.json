@@ -1,0 +1,7 @@
+{
+  "name": "ngx-entended-pdf-viewer-compatibility-with-ion-router-outlet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

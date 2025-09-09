@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>PDF Test</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ngx-extended-pdf-viewer
+    [src]="'https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf'"
+    [showToolbar]="true"
+    [zoom]="'page-width'">
+  </ngx-extended-pdf-viewer>
+</ion-content>
