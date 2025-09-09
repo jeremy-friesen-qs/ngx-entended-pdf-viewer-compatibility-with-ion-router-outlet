@@ -11,4 +11,4 @@ Steps to reproduce:
    - "offsetParent is not set -- cannot scroll"
    - See image below
 
-<img width="671" height="274" alt="image" src="https://github.com/user-attachments/assets/a1929778-0ed3-4b4c-9b8d-600c10e2453e" />
+<img width="678" height="242" alt="image" src="https://github.com/user-attachments/assets/503c119a-62f6-4c48-ac37-fa32f8d0ade7" />
