@@ -1,6 +1,4 @@
 Setup:
- - Navigate to ngx-entended-pdf-viewer-compatibility-with-ion-router-outlet
- - Install ionic/cli - npm install --save-dev @ionic/cli
  - Install dependencies (ionic app deps, and ngx-extended-pdf-viewer) - npm i
  - Run - npx ionic serve
 
